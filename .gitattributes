@@ -1,0 +1,84 @@
+# Do not change the line-ending on any file by default
+# regardless of the user's configuration
+* -text
+
+# Force files with the following extensions to always have CRLF line endings on checkout.
+*.application text eol=crlf
+*.asax text eol=crlf
+*.ascx text eol=crlf
+*.ashx text eol=crlf
+*.asmx text eol=crlf
+*.aspx text eol=crlf
+*.bat text eol=crlf
+*.clientconfig text eol=crlf
+*.config text eol=crlf
+*.cs text eol=crlf
+*.csproj text eol=crlf
+*.datasource text eol=crlf
+*.dbmdl text eol=crlf
+*.dbml text eol=crlf
+*.dbp text eol=crlf
+*.dbproj text eol=crlf
+*.disco text eol=crlf
+*.dotsettings text eol=crlf
+*.dtsx text eol=crlf
+*.htc text eol=crlf
+*.layout text eol=crlf
+*.manifest text eol=crlf
+*.master text eol=crlf
+*.metaproj text eol=crlf
+*.modelproj text eol=crlf
+*.nunit text eol=crlf
+*.nuspec text eol=crlf
+*.proj text eol=crlf
+*.ps1 text eol=crlf
+*.pubxml text eol=crlf
+*.resx text eol=crlf
+*.schemaview text eol=crlf
+*.settings text eol=crlf
+*.sitemap text eol=crlf
+*.sln text eol=crlf
+*.sql text eol=crlf
+*.sqlsettings text eol=crlf
+*.suo text eol=crlf
+*.svc text eol=crlf
+*.svcinfo text eol=crlf
+*.svcmap text eol=crlf
+*.targets text eol=crlf
+*.tasks text eol=crlf
+*.testsettings text eol=crlf
+*.uml text eol=crlf
+*.user text eol=crlf
+*.vb text eol=crlf
+*.vs10x text eol=crlf
+*.wsdl text eol=crlf
+*.xaml text eol=crlf
+*.xml text eol=crlf
+*.xsc text eol=crlf
+*.xsd text eol=crlf
+*.xslt text eol=crlf
+*.xss text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.bin binary
+*.bmp binary
+*.cer binary
+*.dll binary
+*.doc binary
+*.docx binary
+*.exe binary
+*.gif binary
+*.ico binary
+*.jpg binary
+*.nupkg binary
+*.pdb binary
+*.pdf binary
+*.pfx binary
+*.png binary
+*.rtf binary
+*.swf binary
+*.vsmdi binary
+*.xap binary
+*.xls binary
+*.xlsx binary
+
