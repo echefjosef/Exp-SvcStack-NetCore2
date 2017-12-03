@@ -1,4 +1,4 @@
-#ServiceStack.Core 1.0.44 & .Net Core 2.0#
+# ServiceStack.Core 1.0.44 & .Net Core 2.0 #
 
 This repository is meant to demonstrate some of the pitfalls of working
 with .Net Core 2.0, Asp.Net Core 2.0, and ServiceStack.  The problems
