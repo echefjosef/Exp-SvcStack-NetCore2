@@ -2,7 +2,7 @@
 
 ## Build and Publish
 
-It would appear that implementing a CLI publish using `dotnet publish` can product a variety of options.  By default, this will create the systems best approximation of a stand-alond deployment.  Publishing can be contained and controlled by utilizing the Framework and Runtime specifiers like this:
+It would appear that implementing a CLI publish using `dotnet publish` can produce a variety of options.  By default, this will create the systems best approximation of a stand-alond deployment.  Publishing can be contained and controlled by utilizing the Framework and Runtime specifiers like this:
 
 ``` powershell
 dotnet publish -f netcoreapp2.0 -c Release -r win-x64
